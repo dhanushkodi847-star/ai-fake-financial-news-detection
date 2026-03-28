@@ -1,0 +1,39 @@
+{
+  "feature_type": "BERT",
+  "bert_model_name": "all-MiniLM-L6-v2",
+  "best_model_name": "Random Forest",
+  "results": {
+    "Logistic Regression": {
+      "accuracy": 0.9909,
+      "precision": 0.9821,
+      "recall": 1.0,
+      "f1_score": 0.991,
+      "cv_mean": 0.9927,
+      "cv_std": 0.0068
+    },
+    "Random Forest": {
+      "accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
+      "cv_mean": 0.9945,
+      "cv_std": 0.0045
+    },
+    "Gradient Boosting": {
+      "accuracy": 0.9909,
+      "precision": 0.9821,
+      "recall": 1.0,
+      "f1_score": 0.991,
+      "cv_mean": 0.9891,
+      "cv_std": 0.0068
+    },
+    "Linear SVC": {
+      "accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
+      "cv_mean": 1.0,
+      "cv_std": 0.0
+    }
+  }
+}
