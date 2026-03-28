@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🔍 AI-Based Fake Financial News Detection System
 
 <div align="center">
@@ -185,3 +186,6 @@ This project is developed as an academic project for the **Bachelor of Computer 
 *AI-Based Fake Financial News Detection System | 2025-2026*
 
 </div>
+=======
+# ai-fake-financial-news-detection
+>>>>>>> 2d11a4e90f9090a4df025c7b993e9b3f1b1a4295
